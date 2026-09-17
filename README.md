@@ -146,3 +146,15 @@ no going back: back the database and the volume up first, and read the
 [upgrade guide](https://github.com/plausible/community-edition/wiki/upgrade).
 Move ClickHouse only to the version Plausible's compose file names for that
 release.
+
+---
+
+<!-- cubeship-crosslink -->
+
+## About Cubeship
+
+This is a template for [**Cubeship**](https://github.com/cubeshipd/cubeship) —
+a PaaS you run on your own server: `docker push`, and it is live, with HTTPS,
+a database beside it, and a second machine when one stops being enough.
+
+Browse every template at [cubeship.dev/templates](https://cubeship.dev/templates).
